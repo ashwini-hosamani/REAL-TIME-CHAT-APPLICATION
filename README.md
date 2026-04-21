@@ -96,3 +96,7 @@ This project reflects strong frontend and backend integration skills, along with
 **Made with ❤️ by Ashwini Hosamani**
 
 ##OUTPUT
+<img width="1600" height="750" alt="Image" src="https://github.com/user-attachments/assets/d8c49d8c-8419-4584-aaba-2516532daa52" />
+<img width="1600" height="752" alt="Image" src="https://github.com/user-attachments/assets/f2ccf229-cadf-451e-aa9a-0cd65fef6769" />
+<img width="1600" height="770" alt="Image" src="https://github.com/user-attachments/assets/673e10bf-9d6c-462d-b544-632188b8299d" />
+<img width="1600" height="766" alt="Image" src="https://github.com/user-attachments/assets/e5d38bd4-1208-45eb-8073-6f29826869a2" />
