@@ -95,6 +95,8 @@ This project reflects strong frontend and backend integration skills, along with
 
 **Made with ❤️ by Ashwini Hosamani**
 
+Github Repository : https://github.com/ashwini-hosamani/REAL-TIME-CHAT-APPLICATION
+
 ##OUTPUT
 <img width="1600" height="750" alt="Image" src="https://github.com/user-attachments/assets/d8c49d8c-8419-4584-aaba-2516532daa52" />
 <img width="1600" height="752" alt="Image" src="https://github.com/user-attachments/assets/f2ccf229-cadf-451e-aa9a-0cd65fef6769" />
